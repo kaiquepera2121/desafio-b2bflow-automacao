@@ -1,0 +1,5 @@
+Bibliotecas necessárias para o projeto
+
+supabase-py
+requests
+python-dotenv
